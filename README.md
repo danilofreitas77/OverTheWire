@@ -26,7 +26,7 @@ A ideia não é apenas completar os níveis, mas **entender os conceitos por tr�
 
 ## 📊 Progresso
 
-### `2 / 34` níveis concluídos
+### `5 / 34` níveis concluídos
 
 **Status atual:** 🟢 Em andamento
 
