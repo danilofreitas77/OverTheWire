@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CTF-OverTheWire-red?style=for-the-badge&logo=linux&logoColor=white" alt="OverTheWire">
-  <img src="https://img.shields.io/badge/Progress-2%2F34-orange?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-8%2F34-orange?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Linux-Learning-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Cybersecurity-Journey-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity">
 </p>
@@ -26,7 +26,7 @@ A ideia não é apenas completar os níveis, mas **entender os conceitos por tr�
 
 ## 📊 Progresso
 
-### `5 / 34` níveis concluídos
+### `8 / 34` níveis concluídos
 
 **Status atual:** 🟢 Em andamento
 
